@@ -1,1 +1,0 @@
-create model1_text1.txt
